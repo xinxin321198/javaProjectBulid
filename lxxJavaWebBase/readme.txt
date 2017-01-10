@@ -1,0 +1,7 @@
+此项目使用最基本的java工程构建，手动按照javaweb标准构建相应的目录
+1.项目编译过后的class文件放在target/WEB-INF/classes下
+2.第三方jar包放入target/WEB-INF/lib下
+3.config目录下存放项目配置文件，使用tomcat配置任意目录下的web应用程序的方式
+运行createLink.bat，使用硬链接把配置文件从工程下映射到tomcat根目录conf\Catalina\localhost
+配置文件名既是tomcat识别web应用程序的名称
+ps:参考doc目录下的相关文档

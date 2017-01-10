@@ -1,0 +1,5 @@
+配置启动tomcat的脚本文件
+脚本配置jdk的环境变量，保持系统的纯净性
+
+tomcat8,直接在server.xml中配置项目的路径
+tomcat9，在conf\Catalina\localhost目录中增加配置文件，tomato自动是被为一个项目

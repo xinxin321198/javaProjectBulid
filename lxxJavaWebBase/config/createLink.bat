@@ -1,0 +1,1 @@
+mklink /H  E:\myIDE\tomcat9\conf\Catalina\localhost\lxxJavaWebBase.xml E:\myIDE\workSpace\lxxServlet\lxxJavaWebBase\config\lxxJavaWebBase.xml
